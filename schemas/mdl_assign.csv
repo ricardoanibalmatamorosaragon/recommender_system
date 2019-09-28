@@ -1,0 +1,66 @@
+"id","course","name","intro","introformat","alwaysshowdescription","nosubmissions","submissiondrafts","sendnotifications","sendlatenotifications","duedate","allowsubmissionsfromdate","grade","timemodified","requiresubmissionstatement","completionsubmit","cutoffdate","gradingduedate","teamsubmission","requireallteammemberssubmit","teamsubmissiongroupingid","blindmarking","revealidentities","attemptreopenmethod","maxattempts","markingworkflow","markingallocation","sendstudentnotifications","preventsubmissionnotingroup"
+"1","71","Test","<p>1. In una pagina HTML inserire due caselle di testo (input type=""text"") e un pulsante che quando viene premuto scambia il contenuto delle due caselle di testo.</p><p><br></p><p>2. Scrivere un programma JS che digitato un numero in una casella di testo numerica (input type=""number""), premendo un pulsante disegni un un paragrafo di testo preformattato (&lt;pre&gt;&lt;/pre&gt;) un triangolo pieno di asterischi.&nbsp;</p><p><br></p><p>Esempio:</p><p>Dato: 4</p><p>*</p><p>**</p><p>***</p><p>****</p><p><br></p><p>3. Scrivere un programma JS che chiede all'utente dei numeri (uno alla volta in una casella di testo numerica), premendo un pulsante aggiunga l'ultmio numero inserito ad un array di numeri e stampi in un paragrafo la media e la somma di tutti i numeri digitati fino a quel momento.</p><p><br></p><p>4. Modificare il programma del file javascript06.html vista a lezione (per indovinare un numero) in modo che lo stile del paragrafo dove viene stampato il risultato venga modificato in questo modo:</p><p>troppo grande =&gt; testo blu</p><p>troppo piccolo =&gt; testo rosso</p><p>indovinato =&gt; testo bianco su fondo rosso&nbsp;&nbsp;</p><p><br></p><p>5. Data una parola, scritta in una casella di testo, scrivere in una casella di testo lungo (textarea) tutti i possibili anagrammi della parola scelta.</p>","1","1","0","1","0","0","1526680800","1526076000","100","1526147787","0","0","1526834400","1526853600","0","0","0","0","0","none","-1","0","0","1","0"
+"2","74","CREA IL TUO SITO ",,"1","1","0","0","0","0","1527112800","1526508000","100","1526571038","0","0","0","1527717600","0","0","0","0","0","none","-1","0","0","1","0"
+"5","64","2.4 First Assignment","<p>This assignment is an algorithmic team assignment. You will be placed into a teams of 10. In your team, you will be able develop a reputation as a responsive, enthusiastic, and intelligent team member, which will be reflected by your teammates when they evaluate you at the end of the assignment (you will evaluate them, too.)</p>
+<p>In your teams, choose at least five successful start-ups submitted by your classmates.</p>
+<p>Analyze the list of attributes to see if there are any commonalities among them. Our goal is to discover the elements of successful startups across the world and across business type. Therefore, you should choose start-ups from different business sectors as well as from different geographic locations. At the end of your team's analysis, you should be able to answer the question, ""What do successful start-ups have in common?""</p>","1","0","0","0","1","1","0","0","100","1393260139","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"6","69","1.5 Exercise: Learning from other Entrepreneurs","<p>Experienced entrepreneurs serve as important mentors and advisers for new entrepreneurs. Reach out to an entrepreneur (or even better several entrepreneurs) and take time to learn their stories. Use their story telling to help illustrate for you:</p>
+<ol>
+<li>What was the process this entrepreneur went through when going from idea to launch? What steps were taken and what may have been skipped? What challenges did the entrepreneur face when moving to launch?</li>
+<li>What stage is this business in its life cycle? What issues and challenges did this entrepreneur faced at each stage in the development of their business?</li>
+<li>How does this entrepreneur view the risk taken when launching the business?</li>
+</ol>
+<p>Keep in contact with this and other entrepreneurs you get to know. They will serve as important people to reach out to as you progress in your entrepreneurial career. And don't forget to return this favor to entrepreneurs who reach out to you some day.</p>","1","1","0","0","1","1","1407234000","1393413600","100","1393414195","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"7","69","2.3 Idea exercise","<p>Using what you learned in the last two lectures, generate several ideas for new businesses. These ideas will be used going forward in our subsequent lectures and exercises. Make sure to identify what the sources of these ideas are. What are the forces for change that created your ideas?</p>
+<p>Always stick to ideas that are related to things you know about through your experiences in jobs, hobbies, education, training, and so forth.</p>","1","1","1","0","1","1","1412505300","1393414500","100","1393414798","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"8","69","2.6 Exercise: Market?","<p>Take the idea from the previous exercise that in your initial assessment offers the most promise. Assess this idea in terms of the <em>market</em> question from this lecture. While secondary data is helpful, make sure to gather primary data from potential customers and people who already work within the industry. If the idea does not seem to seem viable after this assessment of the market, go to your next idea and repeat this process. And repeat as needed until one of your ideas holds up to the assessment of the potential market for the idea.</p>","1","1","0","0","1","1","1412507700","1393416900","100","1393417019","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"9","69","2.8 Exercise: Margin?","<p>Take the idea from the previous exercise that passed the market assessment. Now assess this idea in terms of the <em>margin</em> question from this lecture. Do not complete a formal financial spreadsheet at this step. Remember that we are just trying to determine the basic economic feasibility of the idea. If the idea does not seem to seem viable after this assessment of margin, go to back to your next idea and repeat the market and margin processes. And repeat as needed until one of your ideas holds up to the assessment of the potential market and margin for the idea.</p>","1","1","0","0","1","1","1412508300","1393417500","100","1393417608","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"10","69","2.10 Exercise: Me?","<p>Take the idea from the previous exercise that passed the margin assessment. Now assess this idea in terms of the <em>me</em> question from this lecture. If the idea does not seem to seem viable after this assessment of me, go to back to your next idea and repeat the market, margin, and me processes. And repeat as needed until one of your ideas holds up to the assessment of the potential market, margin, and me for the idea.</p>","1","1","0","0","1","1","1417782300","1393417500","100","1393417783","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"11","105","Създайте собствена визитка","<p>Използвайте MSWord или MSPowerPoint, за да създаде своя визитки:</p>
+<ul>
+<li>като студент по предприемачество</li>
+<li>като работещ към дадена организация</li>
+<li>като вас самите без обвързване към дадена институция</li>
+</ul>
+<p>Публикувайте резултата тук</p>","1","0","0","0","1","1","0","0","100","1402580596","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"12","105","Създайте бадж за финалната конференция на проекта NETT","<div id=""intro"" class=""box generalbox boxaligncenter"">
+<div class=""no-overflow"">
+<p>Краят на ноември ще се проведе втора работна среща по проекта NETT</p>
+<p>Създайте бадж за участниците в срещата с MSWord или MSPowerPoint.</p>
+<p><em>Подсказка - не забравяйте логото на проекта</em></p>
+</div>
+</div>","1","0","0","0","1","1","0","0","100","1402580799","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"13","104","Представете .... - устно","<p>Подгответе презентация за епохата, в която бихте искали да живеете.</p>
+<p>Представете я пред публика</p>","1","0","0","0","1","1","0","0","100","1402582063","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"14","106","Въпроси: ","<ol>
+<li>Дайте свое определение за конфликт. Обяснете го.</li>
+<li>Какво е конфликът – норма или патология в обществения живот?</li>
+<li>Можем ли да живеем без конфликти?</li>
+<li>Трябва ли да се боим от конфликти?</li>
+<li>Коя от теориите, обясняващи възникването на конфликта, ви се струва най-убедителна? Защо? Аргументирайте се.</li>
+<li>Помислете за конфликт, в който вие сте участвали или сте наблюдавали. Опитайте се да го обясните с помощта на предпочитаната от вас теория. </li>
+<li>Разгледайте още веднъж пирамидата на Маслоу. Във вашият професионален и личен опит, на кое ниво най-често възникват конфликти?</li>
+</ol>","1","0","0","0","1","1","0","0","100","1402582605","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"15","106","Въпроси за средствата","<ol>
+<li>Припомнете си конкретен конфликт във вашия личен или професионален живот.</li>
+<li>Анализирайте го, като използвате вече познатите ви инструменти за анализ на конфликта.</li>
+<li>Опишете техните възможности и ограничения.</li>
+</ol>","1","0","0","0","1","1","0","0","100","1402583143","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"16","107","Въпроси към Помирение","<ol>
+<li>Моля избройте основните компоненти на помирението.</li>
+<li>В какво се състои разликата между ретрибутивната и възстановителната справедливост?</li>
+<li>Защо молбата за прошка е необходима за помирението?</li>
+</ol>","1","0","0","0","1","1","0","0","100","1402584351","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"17","108","Основни въпроси към социология на конфликта","<ol>
+<li>Кои са отличителните характеристики на конфликтното поведение?</li>
+<li>Какви характеристики трябва да има дадена група, за да се счита за страна в конфликт?</li>
+<li>Какви стратегии можем да приложим, за да променим конфликтното отношение?</li>
+<li>Ако страните не смятат своите отношения за ценни, те биха ли инвестирали усилията си за разрешаването на конфликта?</li>
+<li>На какво и на кого влияе социалният конфликт? В какво се състои това влияние?</li>
+<li>През какви етапи преминава развитието на един конфликт? Дайте кратка характеристика за всеки етап.</li>
+<li>Припомнете си конкретен конфликт, в който сте участвали. Можете ли да разграничите във вашата история елементите, които са описани в текста?</li>
+</ol>","1","0","0","0","1","1","0","0","100","1402584748","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"18","110","Създаване на онтология","<p>Проектирайте система за описание на културно-историческото наследство. Разделете се на групи по основни теми.</p>
+<p>Помислете основните елементи на онтологията и развийте в дълбочина до 3 влагания</p>
+<p></p>","1","0","0","0","1","1","0","0","100","1402590822","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"
+"23","99","Proje çalışması","<p>Linkte verilen başarı hikayelerini inceleyerek bir tanesini seçiniz. Seçtiğiniz başarılı girişimcilik hikayesinin SWOT/GZFT analizini yapınız.</p>","1","0","0","0","1","1","0","0","100","1405429903","0","0","0","0","0","0","0","0","0","none","-1","0","0","1","0"

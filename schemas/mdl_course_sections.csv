@@ -1,0 +1,656 @@
+"id","course","section","name","summary","summaryformat","sequence","visible","availability"
+"12","1","0",NULL,,"1","63,77,280","1",NULL
+"13","1","1",,"<h1><br></h1>","1","368,591,369","1",NULL
+"998","64","0",NULL,,"1","483","1",NULL
+"999","64","1","        ",,"1","484,485","1",NULL
+"1000","64","2",,,"1",,"0",NULL
+"1001","64","3","        ",,"1",,"0",NULL
+"1002","64","4","           ",,"1","486,678,677,676,675,674,673,672,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501","1",NULL
+"1003","64","5","Esame Editoria Digitale 2017/2018",,"1","502,683,682,681,680,679,671,670,647,648","1",NULL
+"1004","64","6",NULL,NULL,"0",,"0",NULL
+"1005","64","7",NULL,NULL,"0",,"0",NULL
+"1006","64","8",NULL,NULL,"0",,"0",NULL
+"1007","64","9",NULL,NULL,"0",,"0",NULL
+"1008","64","10",NULL,NULL,"0",,"0",NULL
+"1009","64","11",NULL,NULL,"0",,"0",NULL
+"1010","64","12",NULL,NULL,"0",,"0",NULL
+"1011","64","13",NULL,NULL,"0",,"0",NULL
+"1012","64","14",NULL,NULL,"0",,"0",NULL
+"1013","64","15",NULL,NULL,"0",,"0",NULL
+"1014","64","16",NULL,NULL,"0",,"0",NULL
+"1015","64","17",NULL,NULL,"0",,"0",NULL
+"1016","64","18",NULL,NULL,"0",,"0",NULL
+"1017","64","19",NULL,NULL,"0",,"0",NULL
+"1018","64","20",NULL,NULL,"0",,"0",NULL
+"1019","64","21",NULL,NULL,"0",,"0",NULL
+"1020","64","22",NULL,NULL,"0",,"0",NULL
+"1021","64","23",NULL,NULL,"0",,"0",NULL
+"1022","64","24",NULL,NULL,"0",,"0",NULL
+"1023","64","25","Esame","<p>Esiti pubblicati (ore 16.00).</p><p>Per visualizzarli cliccare sulla risorsa Esame.</p><p>I risultati definitivi della Professoressa Alberti usciranno nei prossimi giorni.</p>","1",,"0",NULL
+"1024","65","0",NULL,,"1","503","1",NULL
+"1025","65","1"," 09/03 Presentazione del corso",,"1","504,685,505","1",NULL
+"1026","65","2","10/04 Analisi degli esercizi di stile",,"1","506,507,508,509","1",NULL
+"1027","65","3"," 16/03 Il poema epico",,"1","510,511,512,513","1",NULL
+"1028","65","4","17/03 Analisi del testo",,"1","514,515","1",NULL
+"1029","65","5","23/03 Analisi del testo",,"1","516","1",NULL
+"1030","65","6"," 24/03 Le forme narrative",,"1","517","1",NULL
+"1031","65","7",NULL,,"1",,"1",NULL
+"1032","65","8",NULL,,"1",,"1",NULL
+"1033","65","9",NULL,,"1","915,916,917,918,919,920","1",NULL
+"1034","65","10",NULL,,"1",,"1",NULL
+"1087","71","0",NULL,,"1","548,577,573","1",NULL
+"1089","72","0",NULL,,"1","549,633","1",NULL
+"1090","72","2","Modellazione cad Rhino",,"1","617,618,619,620,621","1",NULL
+"1091","72","3","Modellazione cad organica con Z-brush",,"1","622","1",NULL
+"1092","72","1","Introduzione",,"1","616,626","1",NULL
+"1093","72","4","Lab. Stampa 3D",,"1","623,624","1",NULL
+"1094","71","1","Modulo 1 : Architetture e Sistemi",,"1","554,555","1",NULL
+"1095","71","2","Modulo 2 : Processo di sviluppo del Software e OO Programming",,"1","556,557,558","1",NULL
+"1096","71","3","Modulo 3 : Realizzazione di applicazione Java",,"1","559,562,563","1",NULL
+"1097","71","4","Modulo 4 : Realizzazione di applicazione Android",,"1","564,565,570","1",NULL
+"1098","71","5","Modulo 5 : Web Developer","<p>Il modulo tratta gli aspetti di costruzione e dello sviluppo di pagine Web per la creazione di siti completi e usabili affrontando le tecniche di sviluppo di applicazioni back end usando la tecnologia java.</p><p>Il modulo pone inoltre le basi delle competenze tipiche di web designer e art director digital, con particolare interesse alla UX (User Experience), l’UI design (User Interface design) e all’Architettura dell’informazione.</p><p>Richiami di programmazione ad oggetti e progettazione (OO); Classi: definizione attributi e metodi di classe con costruttore; Vettori: array dinamici; Network e Database; Internet con Java; Paradigma client/server e protocolli usati; Richieste HTTP; Invocare servizi Web e&nbsp; richieste REST; Gestione del formato JSON; Richiami Database e DBMS ed uso di MySQL; Ripasso interrogazioni SQL; Uso del DB in Java con JDBC; Sviluppo Web usando Servlet e JSP; Pagine web; Paradigma MVC; Ripassi di HTML per usarlo in JSP; Servlet e JSP; Servlet e ciclo di vita; JSP e comandi; JSP con DB MySQL.<br></p><p><br></p>","1","571,572,922,576","1",NULL
+"1099","71","6","Modulo 6 : Industria 4.0",,"1","574","1",NULL
+"1100","71","7","Modulo 7 : IoT ( Internet of Things )",,"1",,"1",NULL
+"1101","71","8","Modulo 8 : Project Management",,"1",,"1",NULL
+"1102","71","9","Modulo 9 : Lingua inglese e Comunicazioni skills",,"1",,"1",NULL
+"1103","71","10","Modulo 10 : Team Building e comunicazione",,"1",,"1",NULL
+"1104","71","11","Modulo 11 : Concetti, metodi e strumenti matematici",,"1",,"1",NULL
+"1105","71","12","Modulo 12 : Salute e sicurezza nei luoghi di lavoro",,"1",,"1",NULL
+"1107","74","0",NULL,,"1","578","1",NULL
+"1108","74","1","Diritto Digitale",,"1","579,580","1",NULL
+"1109","74","2","Linguaggi Web",,"1","582,581,583","1",NULL
+"1110","74","3","Video Editing",,"1","584,585,586","1",NULL
+"1111","74","4","Marketing Digitale",,"1","587,588,589,590","1",NULL
+"1112","74","5",NULL,,"1",,"1",NULL
+"1113","74","6",NULL,,"1",,"1",NULL
+"1114","74","7",NULL,,"1",,"1",NULL
+"1115","74","8",NULL,,"1",,"1",NULL
+"1116","74","9",NULL,,"1",,"1",NULL
+"1117","74","10",NULL,,"1",,"1",NULL
+"1119","71","13","Modulo 13: Matematica",,"1","593","1",NULL
+"1120","74","11","Esame Editoria Digitale 20172018",,"1","594","1",NULL
+"1121","74","12","Modulo 3 : Realizzazione di applicazione Java",,"1","595,596,597","1",NULL
+"1122","74","13","Modulo 3 : Realizzazione di applicazione Java",,"1","598,599,600","1",NULL
+"1123","74","14","Modulo 3 : Realizzazione di applicazione Java",,"1","601,602,603","1",NULL
+"1124","74","15","Modulo 3 : Realizzazione di applicazione Java",,"1","604,605,606","1",NULL
+"1125","74","16","Modulo 3 : Realizzazione di applicazione Java",,"1","607,608,609","1",NULL
+"1126","74","17","Modulo 3 : Realizzazione di applicazione Java",,"1","610,611,612","1",NULL
+"1130","72","5","Digital economy",,"1","625","1",NULL
+"1131","72","6","Fresa Cnc",,"1","627","1",NULL
+"1132","72","7","Keyshot",,"1","628,629,630,631,632","1",NULL
+"1133","75","0",NULL,,"1","634","1",NULL
+"1134","75","1","Introduzione","<h4 style=""text-align: center; color:#E26200;""><b>Benvenuti al nuovo corso 4.0 di Siam1838 per l'anno 2018/2019</b><br></h4><p></p><p>L’intervento formativo è rivolto a giovani fino a <strong>29 anni</strong>&nbsp;alla data di avvio del corso prevista per il <strong>30 Ottobre 2018</strong>, residenti o domiciliati in Lombardia e in possesso almeno di uno dei seguenti titoli:</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diploma di istruzione secondaria superiore</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diploma professionale di tecnico ovvero attestato di 
+competenza III livello europeo conseguito in percorsi IFP antecedenti 
+l’anno formativo 2009/2010</p><p></p>
+<hr style=""border:2px groove #80c6b1;"">
+<p>Di seguito il pdf dettaglio del corso: <a href=""@@PLUGINFILE@@/Siam1838IFTSRobotic.pdf"">Clicca qui per il Pdf</a><br></p><p>E i Video degli anni precedenti: <br></p><p style=""text-align: center; color:#7ab9a5;""><b>!° anno 2016/2017</b><br></p><p style=""text-align: center;""><a target=""_blank"" href=""https://www.youtube.com/watch?v=lzVTNZaIg90"">Clicca qui per il Video del I° anno</a>&nbsp; <br></p><p style=""text-align: center; color:#e3984d;""><b>II° anno 2017/2018</b><br></p><p style=""text-align: center;"">  <a href=""https://www.youtube.com/watch?v=nRVoNS_vfOM"">Clicca qui per il Video del II° anno</a><br></p>
+<hr style=""border:2px groove #80c6b1;"">","1","635","1",NULL
+"1135","75","7","Approfondimento - Programmazione ad Oggetti","<div style=""text-align: center;""><img src=""@@PLUGINFILE@@/Java.jpg"" alt=""Java php"" width=""600"" height=""250"" class=""img-responsive atto_image_button_middle""><br></div><p><br></p>","1","641","1",NULL
+"1136","75","8","Approfondimento - Programmazione Web-Oriented","<div style=""text-align: center;""><img src=""@@PLUGINFILE@@/programmazione.jpg"" alt=""Programmazione web oriented"" width=""600"" height=""250"" class=""img-responsive atto_image_button_middle""><br></div>","1",,"1",NULL
+"1137","75","3","Approfondimento - IoT","<div style=""text-align: center;""><img src=""@@PLUGINFILE@@/iot.jpg"" alt=""iot"" width=""600"" height=""250"" class=""img-responsive atto_image_button_text-bottom""><br></div><p><br></p>","1","638","1",NULL
+"1138","75","5","Approfondimento - Robotica","<p><a target=""_blank"" href=""https://www.youtube.com/watch?v=uoC2ZGRI8a8"">Robotica</a><br></p>","1","639","1",NULL
+"1139","75","6","Approfondimento - Automazione","<p><a target=""_blank"" href=""https://www.youtube.com/watch?v=xb6Xj1gfljc"">Automazione</a><br></p>","1","640","1",NULL
+"1140","75","4","Approfondimento - IoRT","<a target=""_blank"" href=""https://www.youtube.com/watch?v=ODF3W_14fgM"">IoRT</a><br>","1","650,799","1",NULL
+"1141","75","9","Approfondimento - Stampa 3D","<p><a target=""_blank"" href=""https://www.youtube.com/watch?v=Vx0Z6LplaMU"">Stampa 3D</a><br></p>","1","642","1",NULL
+"1142","75","10","Approfondimento - Laser Cutting","<p><a target=""_blank"" href=""https://www.youtube.com/watch?v=SIjUVCho_xU"">Lasercut</a><br></p>","1","643","1",NULL
+"1143","75","11","Approfondimento - Fresa CNC","<a target=""_blank"" href=""https://www.youtube.com/watch?v=vG9Ij0WuyNY"">Fresa cnc</a><p><br></p>","1","644","1",NULL
+"1144","75","12","Approfondimento - Arduino","<a target=""_blank"" href=""https://www.youtube.com/watch?v=CqrQmQqpHXc"">Arduino</a>","1","636","1",NULL
+"1145","75","13","Approfondimento - Digital Economy","<div style=""text-align: center;""><img src=""@@PLUGINFILE@@/Digital%20economy.jpg"" alt=""Digital economy"" width=""600"" height=""250"" class=""img-responsive atto_image_button_middle""><br></div><p><br></p>","1","645","1",NULL
+"1146","75","14","Approfondimento - Design Thinking","<a target=""_blank"" href=""https://www.youtube.com/watch?v=a7sEoEvT8l8"">Design</a>","1","646","1",NULL
+"1150","75","2","Approfondimento - Industry 4.0","<a target=""_blank"" href=""https://www.youtube.com/watch?v=HPRURtORnis"">Industry 4.0</a><br><p><br></p>","1","637","1",NULL
+"1151","76","0",NULL,,"1","651","1",NULL
+"1152","76","1",NULL,,"1",,"1",NULL
+"1153","76","2",NULL,,"1",,"1",NULL
+"1154","76","3",NULL,,"1",,"1",NULL
+"1155","76","4",NULL,,"1",,"1",NULL
+"1156","76","5",NULL,,"1",,"1",NULL
+"1157","76","6",NULL,,"1",,"1",NULL
+"1158","76","7",NULL,,"1",,"1",NULL
+"1159","76","8",NULL,,"1",,"1",NULL
+"1160","76","9",NULL,,"1",,"1",NULL
+"1161","76","10",NULL,,"1",,"1",NULL
+"1162","75","15",,,"1",,"1",NULL
+"1335","132","0",NULL,,"1","884","1",NULL
+"1336","132","1","1","1","1","885,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904,905","1",NULL
+"1337","132","2","2","2","1","886,887","1",NULL
+"1338","132","3","3","3","1","921","1",NULL
+"1339","132","4",NULL,,"1","906,907,908,909,910,911","1",NULL
+"1340","132","5",NULL,,"1",,"1",NULL
+"1341","133","0",NULL,,"1","922","1",NULL
+"1342","133","1","part 1","part 1","1","923,924","1",NULL
+"1343","133","2","part 2","part 2","1","925,926","1",NULL
+"1344","133","3","part 3","part 3","1","927","1",NULL
+"1345","133","4","0","0","1","928","1",NULL
+"1351","167","0",NULL,,"0",,"1",NULL
+"1352","167","1","''Introduction''",,"0","943,944,945","1",NULL
+"1353","167","2","''Technical Tools''",,"0","946,947,948,949","1",NULL
+"1354","167","3","''Vapnik-Chervonenkis Theory''",,"0","950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973","1",NULL
+"1355","167","4","''Concentration Inequalities''",,"0","974,975,976,977,978,979,980,981,982,983","1",NULL
+"1356","168","0",NULL,,"0",,"1",NULL
+"1357","168","1","''Binomial confidence intervals''",,"0","984","1",NULL
+"1358","169","0",NULL,,"0",,"1",NULL
+"1359","169","1","''Part 1: Introduction to Probability''",,"0","985,986,987,988,989,990,991,992,993,994,995,996,997,998,999,1000,1001,1002,1003,1004,1005,1006,1007","1",NULL
+"1360","169","2","''Part 2: Introduction to System Reliability''",,"0","1008","1",NULL
+"1361","169","3","''Part 3: Introduction to Statistics''",,"0","1009,1010","1",NULL
+"1362","170","0",NULL,,"0",,"1",NULL
+"1363","170","1","''Stochastic Processes and Brownian Motion''",,"0","1011","1",NULL
+"1364","170","2","''Non-equilibrium Thermodynamics''",,"0","1012","1",NULL
+"1365","170","3","''Hydrodynamics and Light Scattering''",,"0","1013","1",NULL
+"1366","170","4","''Time Correlation Functions''",,"0","1014","1",NULL
+"1367","171","0",NULL,,"0",,"1",NULL
+"1368","171","1","''Algorithms in Data Mining''",,"0","1015,1016,1017,1018,1019,1020,1021,1022","1",NULL
+"1369","171","2","''A view on Support Vector Machines, boosting and regression based on regularized risk minimization''",,"0","1023,1024,1025,1026,1027","1",NULL
+"1370","171","3","''Statistical learning theory''",,"0","1028","1",NULL
+"1371","171","4","''Probabilistic Model and Bayesian analysis''",,"0","1029","1",NULL
+"1372","172","0",NULL,,"0",,"1",NULL
+"1373","172","1","''Elements of Probability''",,"0","1030","1",NULL
+"1374","172","2","''Random Variables and Expectation''",,"0","1031,1032,1033","1",NULL
+"1375","172","3","''Special Random Variables''",,"0","1034","1",NULL
+"1376","172","4","''Parameter estimation''",,"0","1035,1036,1037,1038,1039,1040,1041,1042","1",NULL
+"1377","172","5","''Hypothesis Testing''",,"0","1043,1044","1",NULL
+"1378","173","0",NULL,,"0",,"1",NULL
+"1379","173","1","''Decision Theory and Testing Simple Hypotheses''",,"0","1045,1046,1047,1048,1049,1050,1051","1",NULL
+"1380","173","2","''Sufficiency and Estimation''",,"0","1052,1053,1054,1055,1056,1057,1058,1059","1",NULL
+"1381","173","3","''Bayes, Maximum Likelihood and M-estimation''",,"0","1060,1061,1062,1063,1064,1065,1066,1067,1068,1069","1",NULL
+"1382","173","4","''Asymptotics of Posterior Probabilities and Model Selection''",,"0","1070","1",NULL
+"1383","174","0",NULL,,"0",,"1",NULL
+"1384","174","1","''Review of Probability''",,"0","1071","1",NULL
+"1385","174","2","''Collecting Data''",,"0","1072,1073","1",NULL
+"1386","174","3","''Sampling Distributions of Statistics''",,"0","1074","1",NULL
+"1387","174","4","''Inference''",,"0","1075,1076,1077,1078,1079,1080,1081,1082","1",NULL
+"1388","174","5","''Linear Regression and Correlation''",,"0","1083,1084","1",NULL
+"1389","174","6","''Nonparametric Statistical Methods''",,"0","1085","1",NULL
+"1390","175","0",NULL,,"0",,"1",NULL
+"1391","175","1","''Module 1''",,"0","1086,1087,1088,1089,1090,1091","1",NULL
+"1392","176","0",NULL,,"0",,"1",NULL
+"1393","176","1","''II. Probability''",,"0","1092,1093,1094,1095","1",NULL
+"1394","176","2","''III. Kinetic Theory of Gases''",,"0","1096,1097","1",NULL
+"1395","176","3","''IV. Classical Statistical Mechanics''",,"0","1098,1099,1100,1101,1102","1",NULL
+"1396","176","4","''V. Interacting Particles''",,"0","1103,1104,1105","1",NULL
+"1397","176","5","''VI. Quantum Statistical Mechanics''",,"0","1106,1107,1108,1109","1",NULL
+"1398","176","6","''VII. Ideal Quantum Gases''",,"0","1110,1111,1112","1",NULL
+"1400","177","0",NULL,,"0",,"1",NULL
+"1401","177","1","''II. Probability''",,"0","1113,1114,1115,1116","1",NULL
+"1402","177","2","''III. Kinetic Theory of Gases''",,"0","1117,1118","1",NULL
+"1403","177","3","''IV. Classical Statistical Mechanics''",,"0","1119,1120,1121,1122,1123","1",NULL
+"1404","177","4","''V. Interacting Particles''",,"0","1124,1125,1126","1",NULL
+"1405","177","5","''VI. Quantum Statistical Mechanics''",,"0","1127,1128,1129,1130","1",NULL
+"1406","177","6","''VII. Ideal Quantum Gases''",,"0","1131,1132,1133","1",NULL
+"1407","178","0",NULL,,"0",,"1",NULL
+"1408","178","1","''Collective Behavior, from Particles to Fields''",,"0","1134,1135","1",NULL
+"1409","178","2","''The Landau-Ginzburg Approach''",,"0","1136,1137,1138","1",NULL
+"1410","178","3","''The Scaling Hypothesis''",,"0","1139,1140,1141","1",NULL
+"1411","178","4","''Perturbative Renormalization Group''",,"0","1142,1143,1144,1145","1",NULL
+"1412","178","5","''Position Space Renormalization Group''",,"0","1146,1147","1",NULL
+"1413","178","6","''Series Expansions''",,"0","1148,1149,1150,1151,1152","1",NULL
+"1414","178","7","''Continuous Spins at Low Temperatures''",,"0","1153,1154,1155,1156,1157,1158,1159","1",NULL
+"1415","179","0",NULL,,"0",,"1",NULL
+"1416","179","1","''Visualization''",,"0","1160","1",NULL
+"1417","179","2","''Resampling''",,"0","1161","1",NULL
+"1418","179","3","''Distributions''",,"0","1162","1",NULL
+"1419","179","4","''Linear Model''",,"0","1163","1",NULL
+"1420","180","0",NULL,,"0",,"1",NULL
+"1421","180","1","''Outliers and Quantiles''",,"0","1164,1165","1",NULL
+"1422","180","2","''Nonparametric Tests''",,"0","1166","1",NULL
+"1423","180","3","''Empirical distribution functions: the KMT theorem''",,"0","1167,1168","1",NULL
+"1424","180","4","''Robustness''",,"0","1169,1170","1",NULL
+"1425","180","5","''M-estimation''",,"0","1171,1172","1",NULL
+"1426","180","6","''Multivariate Robustness''",,"0","1173,1174","1",NULL
+"1427","181","0",NULL,,"0",,"1",NULL
+"1428","181","1","''Introduction to Statistics''",,"0","1175","1",NULL
+"1429","181","2","''Describing Data''",,"0","1176","1",NULL
+"1430","181","3","''Probability''",,"0","1177,1178","1",NULL
+"1431","181","4","''Random Variables''",,"0","1179","1",NULL
+"1432","181","5","''Sampling Theory''",,"0","1180","1",NULL
+"1433","181","6","''Confidence Intervals''",,"0","1181","1",NULL
+"1434","181","7","''Hypothesis Testing''",,"0","1182,1183,1184,1185","1",NULL
+"1435","181","8","''Experimental Design''",,"0","1186,1187,1188","1",NULL
+"1436","181","9","''Regression and Correlation''",,"0","1189,1190","1",NULL
+"1437","181","10","''Chi-square Tests''",,"0","1191","1",NULL
+"1438","181","11","''ANOVA''",,"0","1192,1193,1194,1195","1",NULL
+"1439","182","0",NULL,,"0",,"1",NULL
+"1440","182","1","''Introduction''",,"0","1196,1197","1",NULL
+"1441","182","2","''Talking about distributions''",,"0","1198","1",NULL
+"1442","182","3","''Asking and answering questions with data''",,"0","1199","1",NULL
+"1443","182","4","''Introduction to bivariate/multivariate data''",,"0","1200,1201","1",NULL
+"1444","182","5","''Simple regression''",,"0","1202,1203","1",NULL
+"1445","182","6","''Multivariate regression''",,"0","1204","1",NULL
+"1446","182","7","''Dealing with dollars; making decisions''",,"0","1205,1206","1",NULL
+"1447","183","0",NULL,,"0",,"1",NULL
+"1448","183","1","''The Course at a Glance''",,"0","1207,1208","1",NULL
+"1449","183","2","''The Learning Problem in Perspective''",,"0","1209,1210","1",NULL
+"1450","183","3","''Reproducing Kernel Hilbert Spaces''",,"0","1211,1212","1",NULL
+"1451","183","4","''Regression and Least-Squares Classification''",,"0","1213,1214","1",NULL
+"1452","183","5","''Support Vector Machines for Classification''",,"0","1215,1216","1",NULL
+"1453","183","6","''Manifold Regularization''",,"0","1217,1218","1",NULL
+"1454","183","7","''Unsupervised Learning Techniques''",,"0","1219,1220","1",NULL
+"1455","183","8","''Multiclass''",,"0","1221,1222","1",NULL
+"1456","183","9","''Ranking''",,"0","1223,1224","1",NULL
+"1457","183","10","''Boosting and Bagging''",,"0","1225,1226","1",NULL
+"1458","183","11","''Online Learning''",,"0","1227,1228","1",NULL
+"1459","183","12","''Generalization Bounds Introduction to Stability''",,"0","1229,1230","1",NULL
+"1460","183","13","''Stability of Tikhonov Regularization''",,"0","1231,1232","1",NULL
+"1461","183","14","''Uniform Convergence''",,"0","1233,1234,1235,1236","1",NULL
+"1462","183","15","''Neuroscience''",,"0","1237,1238","1",NULL
+"1463","183","16","''Active Learning''",,"0","1239","1",NULL
+"1464","183","17","''Math Camp''",,"0","1240,1241","1",NULL
+"1465","184","0",NULL,,"0",,"1",NULL
+"1466","184","1","''II. Random variables and distribution functions''",,"0","1242,1243,1244","1",NULL
+"1467","184","2","''Expectations and transformations of random variables''",,"0","1245,1246,1247,1248,1249","1",NULL
+"1468","184","3","''IV. Expectations and conditional distributions''",,"0","1250,1251,1252","1",NULL
+"1469","184","4","''V. Special distributions''",,"0","1253,1254,1255","1",NULL
+"1470","184","5","''VI. Law of large numbers and central limit theorems''",,"0","1256","1",NULL
+"1471","184","6","''Estimation and hypothesis tests''",,"0","1257,1258","1",NULL
+"1472","184","7","''VIII. Confidence intervals''",,"0","1259,1260","1",NULL
+"1473","184","8","''IX. Hypothesis testing''",,"0","1261,1262","1",NULL
+"1474","185","0",NULL,,"0",,"1",NULL
+"1475","185","1","''Sample Space and Probability''",,"0","1263,1264,1265,1266","1",NULL
+"1476","185","2","''Discrete Random Variables''",,"0","1267,1268,1269","1",NULL
+"1477","185","3","''General Random Variables''",,"0","1270,1271,1272","1",NULL
+"1478","185","4","''Further Topics on Random Variables''",,"0","1273,1274","1",NULL
+"1479","185","5","''The Bernoulli and Poisson Processes''",,"0","1275,1276,1277","1",NULL
+"1480","185","6","''Markov Chains''",,"0","1278,1279,1280,2493","1",NULL
+"1481","185","7","''Limit Theorems''",,"0","1281,1282","1",NULL
+"1482","185","8","''Bayesian Statistical Inference''",,"0","1283,1284","1",NULL
+"1483","185","9","''Classical Statistical Inference''",,"0","1285,1286,1287","1",NULL
+"1484","186","0",NULL,,"0",,"1",NULL
+"1485","186","1","''Introduction''",,"0","1288","1",NULL
+"1486","186","2","''Brief Review of Probabilistic Modeling''",,"0","1289,1290,1291,1292,1293,1294","1",NULL
+"1487","186","3","''Spatial models''",,"0","1295","1",NULL
+"1488","186","4","''Markov processes and their application to queueing''",,"0","1296,1297","1",NULL
+"1489","186","5","''Introduction to Queueing Theory and Its Applications''",,"0","1298,1299,1300,1301","1",NULL
+"1490","186","6","''The Weibull distribution and parameter estimation''",,"0","1302","1",NULL
+"1491","186","7","''Hypothesis testing''",,"0","1303","1",NULL
+"1492","186","8","''Descriptive statistics and statistical graphics''",,"0","1304","1",NULL
+"1493","186","9","''Regression''",,"0","1305","1",NULL
+"1494","186","10","''Analysis of variance, with discussion of Bayesian and frequentist statistics''",,"0","1306","1",NULL
+"1495","186","11","''Multiple regression''",,"0","1307","1",NULL
+"1496","186","12","''Design of experiments''",,"0","1308,1309","1",NULL
+"1497","187","0",NULL,,"0",,"1",NULL
+"1498","187","1","''Introduction''",,"0","1310","1",NULL
+"1499","187","2","''Math Review''",,"0","1311","1",NULL
+"1500","187","3","''Random Variables''",,"0","1312","1",NULL
+"1501","187","4","''Statistical Modelling''",,"0","1313","1",NULL
+"1502","188","0",NULL,,"0",,"1",NULL
+"1503","188","1","''Introduction - processes and variation framework''",,"0","1314","1",NULL
+"1504","188","2","''Probability models, parameter estimation, and sampling''",,"0","1315","1",NULL
+"1505","188","3","''Nested variance components''",,"0","1316","1",NULL
+"1506","188","4","''Case study: tungsten CVD DOE/RSM''",,"0","1317","1",NULL
+"1507","189","0",NULL,,"0",,"1",NULL
+"1508","189","1","''Introduction''",,"0","1318","1",NULL
+"1509","189","2","''Matrix Algebra''",,"0","1319","1",NULL
+"1510","189","3","''Regression Model''",,"0","1320","1",NULL
+"1511","189","4","''Nonlinear Models''",,"0","1321","1",NULL
+"1512","189","5","''Sensitivity and Weights''",,"0","1322","1",NULL
+"1513","189","6","''Panel Models''",,"0","1323","1",NULL
+"1514","189","7","''Systems of Equations''",,"0","1324","1",NULL
+"1515","190","0",NULL,,"0",,"1",NULL
+"1516","190","1","''Sample Space and Probability''",,"0","1325,1326,1327,1328","1",NULL
+"1517","190","2","''Discrete Random Variables''",,"0","1329,1330,1331","1",NULL
+"1518","190","3","''General Random Variables''",,"0","1332,1333,1334","1",NULL
+"1519","190","4","''Further Topics on Random Variables''",,"0","1335,1336,1337,1338,1339","1",NULL
+"1520","190","5","''Limit Theorems''",,"0","1340,1341,1342","1",NULL
+"1521","190","6","''The Bernoulli and Poisson Processes''",,"0","1343,1344,1345","1",NULL
+"1522","190","7","''Markov Chains''",,"0","1346,1347,1348","1",NULL
+"1523","191","0",NULL,,"0",,"1",NULL
+"1524","191","1","''Arbitrage-free pricing models''",,"0","1349","1",NULL
+"1525","191","2","''Stochastic calculus and option pricing Code''",,"0","1350","1",NULL
+"1526","191","3","''Simulation methods Code''",,"0","1351","1",NULL
+"1527","191","4","''Dynamic portfolio choice''",,"0","1352,1353,1354","1",NULL
+"1528","191","5","''Parameter estimation''",,"0","1355","1",NULL
+"1529","191","6","''Standard errors and tests''",,"0","1356","1",NULL
+"1530","191","7","''Small-sample inference and bootstrap''",,"0","1357","1",NULL
+"1531","191","8","''Volatility models''",,"0","1358","1",NULL
+"1532","191","9","''Review''",,"0","1359,1360","1",NULL
+"1533","192","0",NULL,,"0",,"1",NULL
+"1534","192","1","''Events and their probability''",,"0","1361","1",NULL
+"1535","192","2","''Random variables (discrete and continuos distributions)''",,"0","1362,1363","1",NULL
+"1536","192","3","''Random Vectors''",,"0","1364","1",NULL
+"1537","192","4","''Functions of random variables and vectors''",,"0","1365","1",NULL
+"1538","192","5","''Second-moment characterization of random variables and vectors''",,"0","1366,1367","1",NULL
+"1539","192","6","''Selected distribution models''",,"0","1368","1",NULL
+"1540","192","7","''Point and interval estimation of distribution parameters''",,"0","1369","1",NULL
+"1541","193","0",NULL,,"0",,"1",NULL
+"1542","193","1","''Introduction - Descriptive Statistics''",,"0","1370,1371","1",NULL
+"1543","193","2","''Probability''",,"0","1372,1373,1374,1375,1376","1",NULL
+"1544","193","3","''Discrete Random Variables and Probability Distributions''",,"0","1377,1378,1379,1380","1",NULL
+"1545","193","4","''Point Estimation''",,"0","1381,1382","1",NULL
+"1546","193","5","''Statistical Intervals Based on Single Sample''",,"0","1383","1",NULL
+"1547","193","6","''Test of Hypotheses Based on Single and Two Sample''",,"0","1384,1385,1386","1",NULL
+"1548","193","7","''Analysis of Variance''",,"0","1387","1",NULL
+"1549","193","8","''Linear Regression''",,"0","1388,1389","1",NULL
+"1550","194","0",NULL,NULL,"0",NULL,"1",NULL
+"1551","195","0",NULL,,"0",,"1",NULL
+"1552","195","1","''II. Probability''",,"0","1390,1391,1392,1393","1",NULL
+"1553","195","2","''V. Multivariate Distributions''",,"0","1394,1395,1396,1397","1",NULL
+"1554","195","3","''X. Bayesian Statistics''",,"0","1398,1399,1400","1",NULL
+"1555","195","4","''XI. Monte Carlo Simulation''",,"0","1401,1402","1",NULL
+"1556","196","0",NULL,,"0",,"1",NULL
+"1557","196","1","''Linear Algebra''",,"0","1403,1404,1405,1406","1",NULL
+"1558","196","2","''Nonlinear algebraic systems''",,"0","1407,1408","1",NULL
+"1559","196","3","''Eigenvalue analysis''",,"0","1409,1410,1411,1412,1413","1",NULL
+"1560","196","4","''Initial value problems''",,"0","1414,1415,1416,1417","1",NULL
+"1561","196","5","''Numerical optimization''",,"0","1418,1419","1",NULL
+"1562","196","6","''Boundary value problems''",,"0","1420,1421,1422,1423","1",NULL
+"1563","196","7","''Model vs Data''",,"0","1424,1425,1426,1427,1428,1429","1",NULL
+"1564","196","8","''Probability theory and stochastic simulation''",,"0","1430,1431,1432,1433,1434,1435,1436,1437","1",NULL
+"1565","196","9","''Fourier analysis''",,"0","1438,1439,1440,1441","1",NULL
+"1566","197","0",NULL,,"1",,"1",NULL
+"1567","197","1",NULL,,"1",,"1",NULL
+"1568","198","0",NULL,,"0",,"1",NULL
+"1569","198","1","''Measures Theory''",,"0","1442,1443","1",NULL
+"1570","198","2","''Integration''",,"0","1444,1445,1446,1447,1448,1449,1450,1451,1452,1453,1454,1455","1",NULL
+"1571","198","3","''Fourier Analysis''",,"0","1456,1457,1458,1459,1460,1461,1462,1463,1464,1465","1",NULL
+"1572","199","0",NULL,,"0",,"1",NULL
+"1573","199","1","''Manufacturing Systems Overview''",,"0","1466","1",NULL
+"1574","199","2","''Statistics''",,"0","1467,1468,1469","1",NULL
+"1575","199","3","''Regression''",,"0","1470,1471","1",NULL
+"1576","199","4","''Forecasting''",,"0","1472,1473","1",NULL
+"1577","199","5","''Single-Stage, Multiple-Part-Type Systems''",,"0","1474","1",NULL
+"1578","199","6","''Focus''",,"0","1475,1476,1477","1",NULL
+"1579","200","0",NULL,,"0",,"1",NULL
+"1580","200","1","''Introduction to STATA''",,"0","1478","1",NULL
+"1581","200","2","''Descriptive statistics''",,"0","1479","1",NULL
+"1582","200","3","''Bivariate relationships''",,"0","1480","1",NULL
+"1583","200","4","''Multiple regression''",,"0","1481","1",NULL
+"1584","200","5","''Sampling and inference''",,"0","1482","1",NULL
+"1585","201","0",NULL,,"0",,"1",NULL
+"1586","201","1","''Logic and Sets''",,"0","1483","1",NULL
+"1587","201","2","''Proofs''",,"0","1484","1",NULL
+"1588","201","3","''Induction''",,"0","1485,1486,1487","1",NULL
+"1589","201","4","''Number Theory''",,"0","1488,1489","1",NULL
+"1590","201","5","''Graphs''",,"0","1490,1491","1",NULL
+"1591","201","6","''Summations''",,"0","1492","1",NULL
+"1592","201","7","''Approximation, Asymptotics''",,"0","1493","1",NULL
+"1593","201","8","''Recurrences''",,"0","1494","1",NULL
+"1594","201","9","''Counting''",,"0","1495,1496,1497","1",NULL
+"1595","201","10","''Generating Functions''",,"0","1498","1",NULL
+"1596","201","11","''Probability''",,"0","1499,1500","1",NULL
+"1597","201","12","''Indipendece''",,"0","1501","1",NULL
+"1598","201","13","''Random Variables and Distributions''",,"0","1502","1",NULL
+"1599","201","14","''Expectation''",,"0","1503,1504","1",NULL
+"1600","201","15","''Special Topics''",,"0","1505,1506","1",NULL
+"1601","202","0",NULL,,"1",,"1",NULL
+"1602","202","1",NULL,,"1",,"1",NULL
+"1603","202","2",NULL,,"1",,"1",NULL
+"1604","202","3",NULL,,"1",,"1",NULL
+"1605","202","4",NULL,,"1",,"1",NULL
+"1606","202","5",NULL,,"1",,"1",NULL
+"1607","203","0",NULL,NULL,"0",NULL,"1",NULL
+"1608","204","0",NULL,,"0",,"1",NULL
+"1609","204","1","''The Hermite Ensemble: Wigner's Semi-Circle Law''",,"0","1507,1508","1",NULL
+"1610","204","2","''The Laguerre Ensemble: Marcenko-Pastur Theorem''",,"0","1509","1",NULL
+"1611","204","3","''The Semi-Circular Element: Central Limit Theorem for Infinite Random Matrices''",,"0","1510","1",NULL
+"1612","204","4","''Free Cumulants in Free Probability''",,"0","1511,1512,1513","1",NULL
+"1613","205","0",NULL,NULL,"0",NULL,"1",NULL
+"1614","206","0",NULL,,"0",,"1",NULL
+"1615","206","1","''Introduction: Stationary Time Series''",,"0","1514,1515,1516,1517,1518","1",NULL
+"1616","206","2","''Mutivariate Stationary Analysis''",,"0","1519,1520,1521,1522,1523,1524","1",NULL
+"1617","206","3","''III. Univariate Non-Stationary Processes''",,"0","1525,1526,1527","1",NULL
+"1618","206","4","''Multivariate Non-Stationary''",,"0","1528,1529,1530","1",NULL
+"1619","206","5","''Likelihood Methods''",,"0","1531,1532","1",NULL
+"1620","206","6","''Bayesian Methods''",,"0","1533,1534,1535","1",NULL
+"1622","208","0",NULL,,"0",,"1",NULL
+"1623","208","1","''Generalized Method of Moments''",,"0","1536","1",NULL
+"1624","208","2","''Nonparametric and Semiparametric Estimation''",,"0","1537","1",NULL
+"1625","208","3","''Locally linear progression''",,"0","1538","1",NULL
+"1626","208","4","''Treatment Effects''",,"0","1539","1",NULL
+"1627","208","5","''Nonlinear Models in Panel Data''",,"0","1540","1",NULL
+"1628","209","0",NULL,,"0",,"1",NULL
+"1629","209","1","'' Methods for nonlinear models''",,"0","1541","1",NULL
+"1630","209","2","''Large sample theory, asymptotic theory, discrete choice, censoring, and sample selection''",,"0","1542,1543,1544,1545","1",NULL
+"1631","209","3","''Bootstrap, subsampling, and finite-sample methods''",,"0","1546,1547","1",NULL
+"1632","209","4","''Quantile regression (QR) and distributional methods''",,"0","1548,1549","1",NULL
+"1633","209","5","''Bayesian and quasi-Bayesian methods''",,"0","1550","1",NULL
+"1634","209","6","''GMM: identification, estimation, testing, bias, selecting moments''",,"0","1551,1552,1553,1554","1",NULL
+"1635","209","7","''Nonparametric estimation''",,"0","1555,1556","1",NULL
+"1636","209","8","''GMM: identification, estimation, testing, bias, selecting moments''",,"0","1557,1558","1",NULL
+"1637","209","9","''Treatment Effects''",,"0","1559,1560,1561","1",NULL
+"1638","209","10","''Models in Panel Data''",,"0","1562,1563","1",NULL
+"1639","210","0",NULL,,"0",,"1",NULL
+"1640","210","1","''Combinatorial Analysis''",,"0","1564,1565","1",NULL
+"1641","210","2","''Axioms of Probability''",,"0","1566,1567,1568","1",NULL
+"1642","210","3","''Conditional Probability and Indipendace''",,"0","1569,1570","1",NULL
+"1643","210","4","''Random Variables''",,"0","1571,1572,1573,1574,1575,1576,1577","1",NULL
+"1644","210","5","''Continuous Random Variables''",,"0","1578,1579,1580,1581,1582,1583","1",NULL
+"1645","210","6","''Jointly Distributed Random Variables''",,"0","1584,1585","1",NULL
+"1646","210","7","''Propriety of Expectation''",,"0","1586,1587,1588,1589,1590","1",NULL
+"1647","210","8","''Limit Theorems''",,"0","1591,1592,1593","1",NULL
+"1648","210","9","''Additional Topics in Probability''",,"0","1594,1595,1596,1597,1598,1599,1600","1",NULL
+"1649","211","0",NULL,NULL,"0",NULL,"1",NULL
+"1650","212","0",NULL,,"0",,"1",NULL
+"1651","212","1","''Review of basic probabilistic concepts''",,"0","1601","1",NULL
+"1652","212","2","''Large deviations theory''",,"0","1602,1603,1604,1605","1",NULL
+"1653","212","3","''Brownian motion theory, Martingale theory''",,"0","1606,1607,1608,1609,1610,1611,1612,1613,1614","1",NULL
+"1654","212","4","''Weak convergence theory and applications''",,"0","1615,1616,1617,1618,1619,1620,1621,1622","1",NULL
+"1655","213","0",NULL,,"0",,"1",NULL
+"1656","213","1","''Measure Theory''",,"0","1623,1624,1625","1",NULL
+"1657","213","2","''Laws of Large Numbers''",,"0","1626,1627,1628,1629,1630","1",NULL
+"1658","213","3","''Central Limit Theorems''",,"0","1631,1632","1",NULL
+"1659","213","4","''Martingales''",,"0","1633,1634,1635,1636","1",NULL
+"1660","213","5","''Brownian Motion''",,"0","1637,1638,1639,1640,1641,1642,1643,1644,1645,1646,1647","1",NULL
+"1661","214","0",NULL,NULL,"0",NULL,"1",NULL
+"1662","215","0",NULL,,"0",,"1",NULL
+"1663","215","1","''Module 1''",,"0","1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663,1664,1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681","1",NULL
+"1664","215","2","''Module 2''",,"0","1682,1683,1684,1685,1686,1687,1688,1689,1690,1691,1692,1693,1694,1695,1696,1697,1698,1699,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711","1",NULL
+"1665","215","3","''Module 3''",,"0","1712,1713,1714,1715,1716,1717,1718,1719,1720,1721,1722,1723","1",NULL
+"1666","215","4",NULL,,"1",,"1",NULL
+"1667","216","0",NULL,,"0",,"1",NULL
+"1668","216","1","''Discrete time: deterministic models''",,"0","1724,1725,1726,1727,1728,1729,1730","1",NULL
+"1669","216","2","''Discrete time: stochastic models''",,"0","1731,1732","1",NULL
+"1670","216","3","''Continuous time''",,"0","1733","1",NULL
+"1671","217","0",NULL,,"0",,"1",NULL
+"1672","217","1","''Probability and Random Variables: A Review ''",,"0","1734,1735,1736,1737,1738,1739,1740,1741","1",NULL
+"1673","217","2","''Mathematical Description of Random Signals''",,"0","1742,1743,1744,1745,1746","1",NULL
+"1674","217","3","''Response of linear Systems to Random Inputs''",,"0","1747,1748,1749","1",NULL
+"1675","217","4","''Wiener Filtering''",,"0","1750,1751,1752","1",NULL
+"1676","217","5","''The Discrete Kalman Filter, State-Space Modeling, Simulation''",,"0","1753,1754,1755,1756","1",NULL
+"1677","217","6","''The Continuous Kalman Filter''",,"0","1757","1",NULL
+"1678","217","7","''Prediction, Applications, and More Basics on Discrete Kalman Filtering''",,"0","1758","1",NULL
+"1679","218","0",NULL,,"0",,"1",NULL
+"1680","218","1","''Introduction''",,"0","1759","1",NULL
+"1681","218","2","''Qualifying Networks''",,"0","1760,1761,1762","1",NULL
+"1682","218","3","''Social Networks''",,"0","1763,1764,1765,1766,1767,1768","1",NULL
+"1683","218","4","''Networks, Complexity and Economic Development''",,"0","1769","1",NULL
+"1684","218","5","''Evolution and how it can help us understand our world''",,"0","1770,1771,1772,1773,1774,1775","1",NULL
+"1685","218","6","''Other Topics in Complexity Science''",,"0","1776","1",NULL
+"1686","218","7","''Topic to be determined based on progression of class''",,"0","1777,1778","1",NULL
+"1687","219","0",NULL,,"0",,"1",NULL
+"1688","219","1","''Infinite Horizon ProblemsÃ¢ÂÂSimple (Volume 1, Chapter 7)''",,"0","1779,1780,1781,1782,1783,1784,1785,1786,1787,1788","1",NULL
+"1689","219","2","''Infinite Horizon ProblemsÃ¢ÂÂAdvanced (Volume 2)''",,"0","1789,1790,1791","1",NULL
+"1690","220","0",NULL,,"0",,"1",NULL
+"1691","220","1","''I.B. Nonlinear Diffusion''",,"0","1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1804,1805,1806","1",NULL
+"1692","220","2","''I.C. First Passage and Exploration''",,"0","1807","1",NULL
+"1693","220","3","''II. Anomalous Diffusion''",,"0","1808,1809,1810,1811,1812,1813,1814,1815,1816,1817","1",NULL
+"1694","220","4","''II.B. Continuous-Time Random Walks''",,"0","1818,1819,1820,1821,1822,1823,1824,1825","1",NULL
+"1695","223","0",NULL,NULL,"0",NULL,"1",NULL
+"1696","224","0",NULL,,"0",,"1",NULL
+"1697","224","1","''Week 2''",,"0","1826,1827,1828,1829,1830,1831","1",NULL
+"1698","224","2","''Week 3''",,"0","1832,1833,1834,1835,1836,1837,1838,1839,1840","1",NULL
+"1699","224","3","''Week 4''",,"0","1841,1842,1843,1844,1845,1846","1",NULL
+"1700","224","4","''Week 5''",,"0","1847,1848,1849,1850,1851,1852,1853,1854,1855","1",NULL
+"1701","224","5","''Week 6''",,"0","1856,1857,1858,1859,1860,1861,1862,1863,1864,1865","1",NULL
+"1702","224","6","''Week 7''",,"0","1866,1867,1868,1869,1870","1",NULL
+"1703","224","7","''Week 8''",,"0","1871,1872,1873,1874,1875,1876","1",NULL
+"1704","224","8","''Week 9''",,"0","1877,1878,1879,1880,1881,1882,1883,1884,1885","1",NULL
+"1705","224","9","''Week 10''",,"0","1886,1887,1888,1889,1890,1891,1892","1",NULL
+"1706","224","10","''Week 11''",,"0","1893,1894,1895,1896","1",NULL
+"1707","224","11","''Week 12''",,"0","1897,1898,1899,1900","1",NULL
+"1708","224","12","''Week 13''",,"0","1901,1902,1903,1904","1",NULL
+"1709","224","13","''Week 14''",,"0","1905,1906,1907,1908,1909,1910","1",NULL
+"1710","224","14","''Week 15''",,"0","1911,1912,1913,1914,1915,1916","1",NULL
+"1711","229","0",NULL,,"0",,"1",NULL
+"1712","229","1","''Module 1''",,"0","1917,1918,1919,1920,2146","1",NULL
+"1713","229","2","''Module 2''",,"0","1921,1922,1923,1924","1",NULL
+"1714","229","3","''Module 3''",,"0","1925,1926,1927,1928","1",NULL
+"1715","229","4","''Module 4''",,"0","1929,1930,1931,1932","1",NULL
+"1716","229","5","''Module 5''",,"0","1933,1934,1935","1",NULL
+"1717","230","0",NULL,,"0",,"1",NULL
+"1718","230","1","''Introduction''",,"0","1936,1937,1938,1939,1940","1",NULL
+"1719","230","2","''Analysis of Variance''",,"0","1941,1942,1943,1944,1945","1",NULL
+"1720","230","3","''Constructing Orthogonal Array''",,"0","1946,1947,1948,1949","1",NULL
+"1721","230","4","''Design and Systems''",,"0","1950,1951,1952,1953,1954,1955,1956,1957,1958","1",NULL
+"1722","232","0",NULL,,"1","1959","1",NULL
+"1723","232","1","Mod1","Mod1","1",,"1",NULL
+"1724","232","2","Mod2","Mod2","1",,"1",NULL
+"1725","232","3","Mod3","Mod3","1",,"1",NULL
+"1726","232","4","Mod4","Mod4","1",,"1",NULL
+"1727","232","5","Mod5","Mod5","1",,"1",NULL
+"1728","232","6",NULL,,"1",,"1",NULL
+"1729","221","0",NULL,,"1","1960","1",NULL
+"1730","221","1","Mod1","Mod1","1",,"1",NULL
+"1731","221","2","Mod2","Mod2","1",,"1",NULL
+"1732","221","3","Mod3","Mod3","1",,"1",NULL
+"1733","221","4",NULL,,"1",,"1",NULL
+"1744","235","0",NULL,,"1","1978","1",NULL
+"1745","235","1","prima parte  randomvariables","prima parte  randomvariables","1","1979,1980","1",NULL
+"1746","235","2","lawoflargenumbers","lawoflargenumbers","1","1981,1982","1",NULL
+"1747","235","3","distributions","distributions","1","1983,1984","1",NULL
+"1748","235","4",NULL,,"1",,"1",NULL
+"1749","236","0",NULL,,"1","1985","1",NULL
+"1750","236","1","parte 1 ","parte 1 ","1","1986,1987,1988","1",NULL
+"1751","236","2","seconda parte","seconda parte","1","1989,1990","1",NULL
+"1752","236","3","parte terza","parte terza","1","1991,1992,1993","1",NULL
+"1753","236","4","quarta parte ","quarta parte ","1","1994,1995,1996","1",NULL
+"1754","236","5",NULL,,"1",,"1",NULL
+"1755","222","0",NULL,,"1",,"1",NULL
+"1756","222","1",NULL,,"1",,"1",NULL
+"1757","222","2",NULL,,"1",,"1",NULL
+"1758","222","3",NULL,,"1",,"1",NULL
+"1759","225","0",NULL,,"1",,"1",NULL
+"1760","225","1",NULL,,"1",,"1",NULL
+"1761","225","2",NULL,,"1",,"1",NULL
+"1762","225","3",NULL,,"1",,"1",NULL
+"1763","226","0",NULL,,"0",,"1",NULL
+"1764","226","1","''Week 2''",,"0","1997,1998,1999,2000,2001,2002","1",NULL
+"1765","226","2","''Week 3''",,"0","2003,2004,2005,2006,2007,2008,2009,2010,2011","1",NULL
+"1766","226","3","''Week 4''",,"0","2012,2013,2014,2015,2016,2017,2018,2019,2020","1",NULL
+"1767","226","4","''Week 5''",,"0","2021,2022,2023,2024,2025,2026,2027,2028,2029","1",NULL
+"1768","226","5","''Week 6''",,"0","2030,2031,2032,2033,2034,2035,2036,2037,2038","1",NULL
+"1769","226","6","''Week 7''",,"0","2039,2040,2041,2042,2043,2044,2045,2046,2047","1",NULL
+"1770","226","7","''Week 8''",,"0","2048,2049,2050,2051,2052,2053,2054,2055,2056","1",NULL
+"1771","226","8","''Week 9''",,"0","2057,2058,2059,2060,2061,2062,2063,2064,2065","1",NULL
+"1772","226","9","''Week 10''",,"0","2066,2067,2068,2069,2070,2071,2072,2073,2074","1",NULL
+"1773","226","10","''Week 11''",,"0","2075,2076,2077,2078,2079,2080,2081,2082,2083","1",NULL
+"1774","226","11","''Week 12''",,"0","2084,2085,2086,2087,2088,2089","1",NULL
+"1775","226","12","''Week 13''",,"0","2090,2091,2092,2093,2094,2095,2096,2097,2098","1",NULL
+"1776","226","13","''Week 14''",,"0","2099,2100,2101,2102,2103,2104,2105,2106,2107","1",NULL
+"1777","227","0",NULL,,"1",,"1",NULL
+"1778","227","1",NULL,,"1",,"1",NULL
+"1779","227","2",NULL,,"1",,"1",NULL
+"1780","227","3",NULL,,"1",,"1",NULL
+"1781","228","0",NULL,,"0",,"1",NULL
+"1782","228","1","''Events and their probabilities''",,"0","2108,2109,2110,2111","1",NULL
+"1783","228","2","''Random variables and their distributions''",,"0","2112,2113,2114,2115,2116","1",NULL
+"1784","228","3","''Generating Functions and their applications''",,"0","2117,2118,2119,2120,2121,2122,2123,2124,2125,2126,2127,2128","1",NULL
+"1785","228","4","''Markov Chains''",,"0","2129,2130,2131,2132,2133","1",NULL
+"1786","237","0",NULL,,"1","2134","1",NULL
+"1787","237","1","1","1","1","2135","1",NULL
+"1788","237","2","2","2","1","2136,2137,2138","1",NULL
+"1789","238","0",NULL,,"1","2139","1",NULL
+"1790","238","1","777","777","1","2140,2141,2142","1",NULL
+"1791","238","2","ciao","ciao","1","2143,2144,2145","1",NULL
+"1792","239","0",NULL,,"1","2147","1",NULL
+"1793","239","2",NULL,,"1",,"1",NULL
+"1794","239","1",NULL,,"1",,"1",NULL
+"1795","239","3",NULL,,"1",,"1",NULL
+"1796","239","4",NULL,,"1",,"1",NULL
+"1797","239","5",NULL,,"1",,"1",NULL
+"1798","239","6",NULL,,"1",,"1",NULL
+"1799","239","7",NULL,,"1",,"1",NULL
+"1800","239","8",NULL,,"1",,"1",NULL
+"1801","239","9",NULL,,"1",,"1",NULL
+"1802","239","10",NULL,,"1",,"1",NULL
+"1803","240","0",NULL,,"1","2148","1",NULL
+"1804","240","1","cacca","cacca","1","2149","1",NULL
+"1805","240","2","Parte 2","Parte 2","1","2150,2151,2152,2153","1",NULL
+"1806","240","3","Parte 3","Parte 3","1","2154","1",NULL
+"1816","244","0",NULL,,"1","2168","1",NULL
+"1817","244","1","1","1","1","2169,2170","1",NULL
+"1818","244","2","2","2","1","2171,2172,2173","1",NULL
+"1819","245","0",NULL,,"1","2174","1",NULL
+"1820","245","1","q","q","1","2175,2176,2177","1",NULL
+"1821","245","2","2","2","1","2178,2179,2180","1",NULL
+"1822","246","0",NULL,,"1","2181","1",NULL
+"1823","246","1","1","1","1","2182,2183,2184","1",NULL
+"1824","246","2","2","2","1","2185,2186","1",NULL
+"1825","247","0",NULL,,"1","2187","1",NULL
+"1826","247","1","1","1","1","2188,2189,2190","1",NULL
+"1827","247","2","2","2","1","2191,2192","1",NULL
+"1828","248","0",NULL,,"1","2193","1",NULL
+"1829","248","1","MODULO_BAP","MODULO_BAP","1","2194,2195","1",NULL
+"1830","248","2","MOULO_2","MOULO_2","1","2196,2197","1",NULL
+"1831","248","3","MODD","MODD","1","2198","1",NULL
+"1832","249","0",NULL,,"1","2199","1",NULL
+"1833","249","1","test01010100101001101010101010010101ewwe00dw0d0ds0sd0ds0ds00sd","test01010100101001101010101010010101ewwe00dw0d0ds0sd0ds0ds00sd","1","2200,2201,2202,2203,2204,2205,2206,2207,2208,2209","1",NULL
+"1834","249","2","ASDFGH","ASDFGH","1","2210,2211,2212","1",NULL
+"1835","249","3","gfggf","gfggf","1","2213,2214","1",NULL
+"1836","249","4","fff","fff","1","2215,2216","1",NULL
+"1837","250","0",NULL,,"1","2217","1",NULL
+"1838","250","1","sbc1","sbc1","1","2218,2219","1",NULL
+"1839","250","2","sbc2","sbc2","1","2220,2221","1",NULL
+"1840","251","0",NULL,,"1","2222","1",NULL
+"1841","251","1","sbc3","sbc3","1","2223,2224,2225,2226,2227,2228","1",NULL
+"1842","251","2","sbc4","sbc4","1","2229,2230,2231,2232,2233,2234,2235,2236,2237,2238,2239,2240,2241,2242,2243,2244","1",NULL
+"1843","252","0",NULL,,"1","2245,2249,2250,2251,2252,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2270,2271,2272,2273,2274","1",NULL
+"1844","252","1","daje","daje","1","2246,2247,2248","1",NULL
+"1849","254","0",NULL,,"1","2278","1",NULL
+"1850","254","1","MOD1","MOD1","1","2279,2280,2281,2282,2283,2284,2285,2286,2287,2288,2289,2290,2291","1",NULL
+"1851","254","2","MOD2","MOD2","1","2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302,2303,2304","1",NULL
+"1852","255","0",NULL,,"1","2305","1",NULL
+"1853","255","1","sda","sda","1","2306,2307","1",NULL
+"1854","255","2","ada","ada","1","2308,2309","1",NULL
+"1855","256","0",NULL,,"1","2310","1",NULL
+"1856","256","1","questo va 100%","questo va 100%","1","2311,2312","1",NULL
+"1857","256","2","questo boh","questo boh","1","2313,2314,2315,2316,2317,2318,2319,2320,2321,2322,2323,2324,2325","1",NULL
+"1858","257","0",NULL,,"1","2326","1",NULL
+"1859","257","1","pc1","pc1","1","2327,2328,2329,2330,2331,2332,2333,2334,2335,2336,2337,2338,2339,2340,2341,2342,2343,2344,2345","1",NULL
+"1860","257","2","pc2?","pc2?","1","2346,2347,2348,2349,2350,2351,2352,2353,2354,2355,2356,2357,2358,2359","1",NULL
+"1861","258","0",NULL,,"1","2360","1",NULL
+"1862","258","1","session 1","session 1","1","2361,2362","1",NULL
+"1863","258","2","probability","probability","1","2363,2364,2365,2366,2367,2368","1",NULL
+"1864","259","0",NULL,,"1","2369","1",NULL
+"1865","259","1","Inference","Inference","1","2370,2371,2372,2373,2374","1",NULL
+"1866","259","2","spaces","spaces","1","2375,2376","1",NULL
+"1867","260","0",NULL,,"1","2377","1",NULL
+"1868","260","1","ok","ok","1","2378,2379,2380,2381,2382,2383","1",NULL
+"1869","260","2","ok2","ok2","1","2384,2385","1",NULL
+"1870","261","0",NULL,,"1","2386","1",NULL
+"1871","261","1","bph","bph","1","2387,2388,2389,2390,2391,2392,2393,2394,2395,2396,2397,2398,2399,2400,2401,2402,2403,2404,2405,2406,2407,2408,2409,2410,2411,2412","1",NULL
+"1872","261","2","boh","boh","1","2413,2414,2415,2416,2417,2418","1",NULL
+"1873","262","0",NULL,,"1","2419","1",NULL
+"1874","262","1","ssss","ssss","1","2420,2421,2422,2423,2424,2425","1",NULL
+"1875","262","2","fff","fff","1","2426,2427,2428,2429,2430,2431,2432,2433,2434","1",NULL
+"1876","263","0",NULL,,"1","2435,2436,2437","1",NULL
+"1878","263","1","Statistics 101","Inference","1","2438,2439,2440,2441,2442,2443","1",NULL
+"1879","264","0",NULL,,"1","2444","1",NULL
+"1880","264","1","Algerba Recap","Algerba Recap","1","2445","1",NULL
+"1881","264","2","Collecting and Summarizing Data","Collecting and Summarizing Data","1","2446,2447,2448","1",NULL
+"1882","265","0",NULL,,"1","2449","1",NULL
+"1883","265","1","Modulo1","Modulo1","1","2450,2451,2452","1",NULL
+"1884","265","2","Modulo2","Modulo2","1","2453,2454,2455","1",NULL
+"1885","265","3","Modulo3","Modulo3","1","2456,2457,2458","1",NULL
+"1886","265","4","Modulo4","Modulo4","1","2459,2460,2461","1",NULL
+"1887","266","0",NULL,,"1","2462","1",NULL
+"1888","266","1","Maths Recap","Maths Recap","1","2463,2464,2465,2466","1",NULL
+"1889","266","2","Introduction to ML","Introduction to ML","1","2467,2468,2469","1",NULL
+"1890","267","0",NULL,,"1","2470","1",NULL
+"1891","267","1","Maths Recap","Maths Recap","1","2471,2472,2473,2474","1",NULL
+"1892","267","2","Introduction to ML","Introduction to ML","1","2475,2476,2477","1",NULL
+"1893","268","0",NULL,,"1","2478","1",NULL
+"1894","268","1","data science","data science","1","2479,2480,2481","1",NULL
+"1895","268","2","secondo","secondo","1","2482","1",NULL
+"1896","269","0",NULL,,"1","2483","1",NULL
+"1897","269","1","lezione 1","lezione 1","1","2484,2485,2486,2487,2488","1",NULL
+"1898","269","2","lezione 2","lezione 2","1","2489,2490,2491","1",NULL
+"1899","270","0",NULL,,"1","2492","1",NULL
+"1900","270","1","primo","primo","1",NULL,"1",NULL
+"1901","270","2","secondo","secondo","1",NULL,"1",NULL
+"1902","271","0",NULL,,"1","2494","1",NULL
+"1903","271","1","primo","primo","1","2495","1",NULL
+"1904","271","2","secondo","secondo","1","2496,2497","1",NULL
+"1905","272","0",NULL,,"1","2498","1",NULL
+"1906","272","1","modulo1","modulo1","1","2499","1",NULL
+"1907","272","2","modulo2","modulo2","1","2500","1",NULL

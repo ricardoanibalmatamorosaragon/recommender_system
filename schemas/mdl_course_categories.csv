@@ -1,0 +1,7 @@
+"id","name","idnumber","description","descriptionformat","parent","sortorder","coursecount","visible","visibleold","timemodified","depth","path","theme"
+"1","Abilità informatiche",,,"0","0","10000","11","1","1","1510997460","1","/1",NULL
+"14","Competenze in Economia",,,"1","0","20000","0","1","1","1489657618","1","/14",NULL
+"15","Abilità Comunicative",,,"1","0","30000","0","1","1","1489657647","1","/15",NULL
+"16","Sviluppo Personale",,,"1","0","50000","0","1","1","1526569263","1","/16",NULL
+"20","Visione imprenditoriale",,"<p>Categoria Unimi</p>","1","0","40000","0","1","1","1526569291","1","/20",NULL
+"22","Probability and Statistics",,,"1","0","60000","96","1","1","1560179588","1","/22",NULL

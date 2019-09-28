@@ -1,0 +1,45 @@
+"3","Et","Età","text",,"1","2","1","0","0","2","0","1","18","0","2","2","0",,
+"4","Telefono","Telefono","text",,"1","2","2","0","0","2","0","1",,"0","15","15","0",,
+"5","Studi","Titolo di studi","menu",,"1","2","3","0","0","2","0","1",,"0","   
+Licenza elementare 
+Licenza media
+Diploma di istruzione secondaria superiore
+Laurea di primo livello
+Laurea specialistica a ciclo unico
+Laurea specialistica 
+Master universitario di primo livello
+Master universitario di secondo livello
+Titolo di dottore di ricerca ",NULL,NULL,NULL,NULL
+"6","Settore","Settore di lavoro","menu",,"1","2","4","0","0","2","0","1",,"0","   
+agroalimentare
+alberghi & ristoranti
+ambiente
+amministrazione
+artigianato artistico
+banche & assicurazioni
+beni culturali
+chimica & farmaceutica
+commercio
+comunicazione
+edilizia & design
+elettronico
+gestione delle risorse umane
+informatica & telecomunicazioni
+logistica
+marketing
+meccanica & metalmeccanica
+no profit
+sanità e benessere
+servizi alla persona
+spettacolo
+sport
+tessile pelletteria & moda
+trasporti
+turismo",NULL,NULL,NULL,NULL
+"7","auth_lenauth_facebook_social_id","Facebook Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"8","auth_lenauth_google_social_id","Google Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"9","auth_lenauth_yahoo_social_id","Yahoo Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"10","auth_lenauth_twitter_social_id","Twitter Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"11","auth_lenauth_vk_social_id","VK Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"12","auth_lenauth_yandex_social_id","Yandex Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL
+"13","auth_lenauth_mailru_social_id","MailRu Social ID","text",NULL,"1","1","1","0","1","1","1","0",NULL,"0",NULL,NULL,NULL,NULL,NULL

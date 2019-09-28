@@ -1,0 +1,407 @@
+"id_section","name","summary","keywords"
+"30061","Mod2","Mod2",NULL
+"30062","Mod3","Mod3",NULL
+"30063","Mod4","Mod4",NULL
+"30064","Mod5","Mod5",NULL
+"30065",NULL,,NULL
+"30071",NULL,,NULL
+"30072",NULL,,NULL
+"30073",NULL,,NULL
+"30074",NULL,,NULL
+"30075",NULL,,NULL
+"30076",NULL,,NULL
+"30078",NULL,,NULL
+"30079","Mod1","Mod1",NULL
+"30080","Mod2","Mod2",NULL
+"30081","Mod3","Mod3",NULL
+"30082",NULL,,NULL
+"11000",NULL,,NULL
+"1000","''Introduction to Probability''",,NULL
+"1001","''Conditional Probability''",,NULL
+"1002","''Random Variables and Distributions''",,NULL
+"1003","''Expectation''",,NULL
+"1004","''Special Distributions''",,NULL
+"1005","''Large Random Samples''",,NULL
+"1006","''Estimation''",,NULL
+"1007","''Sampling Distributions of Estimators''",,NULL
+"1008","''Testing Hypotheses''",,NULL
+"1009","''Categorical Data and Nonparametric Methods''",,NULL
+"11160",NULL,,NULL
+"1160","''Introduction''",,NULL
+"1161","''Technical Tools''",,NULL
+"1162","''Vapnik-Chervonenkis Theory''",,NULL
+"1163","''Concentration Inequalities''",,NULL
+"10003",NULL,,NULL
+"3","''Binomial confidence intervals''",,NULL
+"10004",NULL,,NULL
+"4","''Part 1: Introduction to Probability''",,NULL
+"5","''Part 2: Introduction to System Reliability''",,NULL
+"6","''Part 3: Introduction to Statistics''",,NULL
+"11010",NULL,,NULL
+"1010","''Stochastic Processes and Brownian Motion''",,NULL
+"1011","''Non-equilibrium Thermodynamics''",,NULL
+"1012","''Hydrodynamics and Light Scattering''",,NULL
+"1013","''Time Correlation Functions''",,NULL
+"11014",NULL,,NULL
+"1014","''Algorithms in Data Mining''",,NULL
+"1015","''A view on Support Vector Machines, boosting and regression based on regularized risk minimization''",,NULL
+"1016","''Statistical learning theory''",,NULL
+"1017","''Probabilistic Model and Bayesian analysis''",,NULL
+"11018",NULL,,NULL
+"1018","''Elements of Probability''",,NULL
+"1019","''Random Variables and Expectation''",,NULL
+"1020","''Special Random Variables''",,NULL
+"1021","''Parameter estimation''",,NULL
+"1022","''Hypothesis Testing''",,NULL
+"13000",NULL,,NULL
+"3000","''Decision Theory and Testing Simple Hypotheses''",,NULL
+"3001","''Sufficiency and Estimation''",,NULL
+"3002","''Bayes, Maximum Likelihood and M-estimation''",,NULL
+"3003","''Asymptotics of Posterior Probabilities and Model Selection''",,NULL
+"11023",NULL,,NULL
+"1023","''Review of Probability''",,NULL
+"1024","''Collecting Data''",,NULL
+"1025","''Sampling Distributions of Statistics''",,NULL
+"1026","''Inference''",,NULL
+"1027","''Linear Regression and Correlation''",,NULL
+"1028","''Nonparametric Statistical Methods''",,NULL
+"13004",NULL,,NULL
+"3004","''Module 1''",,NULL
+"10015",NULL,,NULL
+"15","''II. Probability''",,NULL
+"16","''III. Kinetic Theory of Gases''",,NULL
+"17","''IV. Classical Statistical Mechanics''",,NULL
+"18","''V. Interacting Particles''",,NULL
+"19","''VI. Quantum Statistical Mechanics''",,NULL
+"20","''VII. Ideal Quantum Gases''",,NULL
+"11029",NULL,,NULL
+"1029","''Collective Behavior, from Particles to Fields''",,NULL
+"1030","''The Landau-Ginzburg Approach''",,NULL
+"1031","''The Scaling Hypothesis''",,NULL
+"1032","''Perturbative Renormalization Group''",,NULL
+"1033","''Position Space Renormalization Group''",,NULL
+"1034","''Series Expansions''",,NULL
+"1035","''Continuous Spins at Low Temperatures''",,NULL
+"11036",NULL,,NULL
+"1036","''Visualization''",,NULL
+"1037","''Resampling''",,NULL
+"1038","''Distributions''",,NULL
+"1039","''Linear Model''",,NULL
+"11040",NULL,,NULL
+"1040","''Outliers and Quantiles''",,NULL
+"1041","''Nonparametric Tests''",,NULL
+"1042","''Empirical distribution functions: the KMT theorem''",,NULL
+"1043","''Robustness''",,NULL
+"1044","''M-estimation''",,NULL
+"1045","''Multivariate Robustness''",,NULL
+"11046",NULL,,NULL
+"1046","''Introduction to Statistics''",,NULL
+"1047","''Describing Data''",,NULL
+"1048","''Probability''",,NULL
+"1049","''Random Variables''",,NULL
+"1050","''Sampling Theory''",,NULL
+"1051","''Confidence Intervals''",,NULL
+"1052","''Hypothesis Testing''",,NULL
+"1053","''Experimental Design''",,NULL
+"1054","''Regression and Correlation''",,NULL
+"1055","''Chi-square Tests''",,NULL
+"1056","''ANOVA''",,NULL
+"11057",NULL,,NULL
+"1057","''Introduction''",,NULL
+"1058","''Talking about distributions''",,NULL
+"1059","''Asking and answering questions with data''",,NULL
+"1060","''Introduction to bivariate/multivariate data''",,NULL
+"1061","''Simple regression''",,NULL
+"1062","''Multivariate regression''",,NULL
+"1063","''Dealing with dollars; making decisions''",,NULL
+"11064",NULL,,NULL
+"1064","''The Course at a Glance''",,NULL
+"1065","''The Learning Problem in Perspective''",,NULL
+"1066","''Reproducing Kernel Hilbert Spaces''",,NULL
+"1067","''Regression and Least-Squares Classification''",,NULL
+"1068","''Support Vector Machines for Classification''",,NULL
+"1069","''Manifold Regularization''",,NULL
+"1070","''Unsupervised Learning Techniques''",,NULL
+"1071","''Multiclass''",,NULL
+"1072","''Ranking''",,NULL
+"1073","''Boosting and Bagging''",,NULL
+"1074","''Online Learning''",,NULL
+"1075","''Generalization Bounds Introduction to Stability''",,NULL
+"1076","''Stability of Tikhonov Regularization''",,NULL
+"1077","''Uniform Convergence''",,NULL
+"1078","''Neuroscience''",,NULL
+"1079","''Active Learning''",,NULL
+"1080","''Math Camp''",,NULL
+"10034",NULL,,NULL
+"34","''II. Random variables and distribution functions''",,NULL
+"35","''Expectations and transformations of random variables''",,NULL
+"37","''IV. Expectations and conditional distributions''",,NULL
+"38","''V. Special distributions''",,NULL
+"39","''VI. Law of large numbers and central limit theorems''",,NULL
+"40","''Estimation and hypothesis tests''",,NULL
+"42","''VIII. Confidence intervals''",,NULL
+"43","''IX. Hypothesis testing''",,NULL
+"11081",NULL,,NULL
+"1081","''Sample Space and Probability''",,NULL
+"1082","''Discrete Random Variables''",,NULL
+"1083","''General Random Variables''",,NULL
+"1084","''Further Topics on Random Variables''",,NULL
+"1085","''The Bernoulli and Poisson Processes''",,NULL
+"1086","''Markov Chains''",,NULL
+"1087","''Limit Theorems''",,NULL
+"1088","''Bayesian Statistical Inference''",,NULL
+"1089","''Classical Statistical Inference''",,NULL
+"11090",NULL,,NULL
+"1090","''Introduction''",,NULL
+"1091","''Brief Review of Probabilistic Modeling''",,NULL
+"1101","''Spatial models''",,NULL
+"1092","''Markov processes and their application to queueing''",,NULL
+"1093","''Introduction to Queueing Theory and Its Applications''",,NULL
+"1094","''The Weibull distribution and parameter estimation''",,NULL
+"1095","''Hypothesis testing''",,NULL
+"1096","''Descriptive statistics and statistical graphics''",,NULL
+"1097","''Regression''",,NULL
+"1098","''Analysis of variance, with discussion of Bayesian and frequentist statistics''",,NULL
+"1099","''Multiple regression''",,NULL
+"1100","''Design of experiments''",,NULL
+"11102",NULL,,NULL
+"1102","''Introduction''",,NULL
+"1103","''Math Review''",,NULL
+"1104","''Random Variables''",,NULL
+"1105","''Statistical Modelling''",,NULL
+"11106",NULL,,NULL
+"1106","''Introduction - processes and variation framework''",,NULL
+"1107","''Probability models, parameter estimation, and sampling''",,NULL
+"1108","''Nested variance components''",,NULL
+"1109","''Case study: tungsten CVD DOE/RSM''",,NULL
+"11110",NULL,,NULL
+"1110","''Introduction''",,NULL
+"1111","''Matrix Algebra''",,NULL
+"1112","''Regression Model''",,NULL
+"1113","''Nonlinear Models''",,NULL
+"1114","''Sensitivity and Weights''",,NULL
+"1115","''Panel Models''",,NULL
+"1116","''Systems of Equations''",,NULL
+"11117",NULL,,NULL
+"1117","''Sample Space and Probability''",,NULL
+"1118","''Discrete Random Variables''",,NULL
+"1119","''General Random Variables''",,NULL
+"1120","''Further Topics on Random Variables''",,NULL
+"1121","''Limit Theorems''",,NULL
+"1122","''The Bernoulli and Poisson Processes''",,NULL
+"1123","''Markov Chains''",,NULL
+"11124",NULL,,NULL
+"1124","''Arbitrage-free pricing models''",,NULL
+"1125","''Stochastic calculus and option pricing Code''",,NULL
+"1126","''Simulation methods Code''",,NULL
+"1127","''Dynamic portfolio choice''",,NULL
+"1128","''Parameter estimation''",,NULL
+"1129","''Standard errors and tests''",,NULL
+"1130","''Small-sample inference and bootstrap''",,NULL
+"1131","''Volatility models''",,NULL
+"1132","''Review''",,NULL
+"12000",NULL,,NULL
+"2000","''Events and their probability''",,NULL
+"2001","''Random variables (discrete and continuos distributions)''",,NULL
+"2002","''Random Vectors''",,NULL
+"2003","''Functions of random variables and vectors''",,NULL
+"2004","''Second-moment characterization of random variables and vectors''",,NULL
+"2005","''Selected distribution models''",,NULL
+"2006","''Point and interval estimation of distribution parameters''",,NULL
+"12008",NULL,,NULL
+"2008","''Introduction - Descriptive Statistics''",,NULL
+"2009","''Probability''",,NULL
+"2010","''Discrete Random Variables and Probability Distributions''",,NULL
+"2011","''Point Estimation''",,NULL
+"2012","''Statistical Intervals Based on Single Sample''",,NULL
+"2013","''Test of Hypotheses Based on Single and Two Sample''",,NULL
+"2014","''Analysis of Variance''",,NULL
+"2015","''Linear Regression''",,NULL
+"10068",NULL,,NULL
+"68","''II. Probability''",,NULL
+"71","''V. Multivariate Distributions''",,NULL
+"76","''X. Bayesian Statistics''",,NULL
+"77","''XI. Monte Carlo Simulation''",,NULL
+"12016",NULL,,NULL
+"2016","''Linear Algebra''",,NULL
+"2017","''Nonlinear algebraic systems''",,NULL
+"2018","''Eigenvalue analysis''",,NULL
+"2019","''Initial value problems''",,NULL
+"2020","''Numerical optimization''",,NULL
+"2021","''Boundary value problems''",,NULL
+"2022","''Model vs Data''",,NULL
+"2023","''Probability theory and stochastic simulation''",,NULL
+"2024","''Fourier analysis''",,NULL
+"12025",NULL,,NULL
+"2025","''Measures Theory''",,NULL
+"2026","''Integration''",,NULL
+"2027","''Fourier Analysis''",,NULL
+"12028",NULL,,NULL
+"2028","''Manufacturing Systems Overview''",,NULL
+"2029","''Statistics''",,NULL
+"2030","''Regression''",,NULL
+"2031","''Forecasting''",,NULL
+"2032","''Single-Stage, Multiple-Part-Type Systems''",,NULL
+"2033","''Focus''",,NULL
+"12034",NULL,,NULL
+"2034","''Introduction to STATA''",,NULL
+"2035","''Descriptive statistics''",,NULL
+"2036","''Bivariate relationships''",,NULL
+"2037","''Multiple regression''",,NULL
+"2038","''Sampling and inference''",,NULL
+"12039",NULL,,NULL
+"2039","''Logic and Sets''",,NULL
+"2040","''Proofs''",,NULL
+"2041","''Induction''",,NULL
+"2042","''Number Theory''",,NULL
+"2043","''Graphs''",,NULL
+"2044","''Summations''",,NULL
+"2045","''Approximation, Asymptotics''",,NULL
+"2046","''Recurrences''",,NULL
+"2047","''Counting''",,NULL
+"2048","''Generating Functions''",,NULL
+"2049","''Probability''",,NULL
+"2050","''Indipendece''",,NULL
+"2051","''Random Variables and Distributions''",,NULL
+"2052","''Expectation''",,NULL
+"2053","''Special Topics''",,NULL
+"12054",NULL,,NULL
+"2054","''The Hermite Ensemble: Wigner's Semi-Circle Law''",,NULL
+"2055","''The Laguerre Ensemble: Marcenko-Pastur Theorem''",,NULL
+"2056","''The Semi-Circular Element: Central Limit Theorem for Infinite Random Matrices''",,NULL
+"2057","''Free Cumulants in Free Probability''",,NULL
+"12058",NULL,,NULL
+"2058","''Introduction: Stationary Time Series''",,NULL
+"2059","''Mutivariate Stationary Analysis''",,NULL
+"2060","''III. Univariate Non-Stationary Processes''",,NULL
+"2061","''Multivariate Non-Stationary''",,NULL
+"2062","''Likelihood Methods''",,NULL
+"2063","''Bayesian Methods''",,NULL
+"12064",NULL,,NULL
+"2064","''Generalized Method of Moments''",,NULL
+"2065","''Nonparametric and Semiparametric Estimation''",,NULL
+"2066","''Locally linear progression''",,NULL
+"2067","''Treatment Effects''",,NULL
+"2068","''Nonlinear Models in Panel Data''",,NULL
+"12069",NULL,,NULL
+"2069","'' Methods for nonlinear models''",,NULL
+"2070","''Large sample theory, asymptotic theory, discrete choice, censoring, and sample selection''",,NULL
+"2071","''Bootstrap, subsampling, and finite-sample methods''",,NULL
+"2072","''Quantile regression (QR) and distributional methods''",,NULL
+"2073","''Bayesian and quasi-Bayesian methods''",,NULL
+"2074","''GMM: identification, estimation, testing, bias, selecting moments''",,NULL
+"2075","''Nonparametric estimation''",,NULL
+"2076","''GMM: identification, estimation, testing, bias, selecting moments''",,NULL
+"2077","''Treatment Effects''",,NULL
+"2078","''Models in Panel Data''",,NULL
+"10159",NULL,,NULL
+"159","''I.B. Nonlinear Diffusion''",,NULL
+"160","''I.C. First Passage and Exploration''",,NULL
+"161","''II. Anomalous Diffusion''",,NULL
+"163","''II.B. Continuous-Time Random Walks''",,NULL
+"12083",NULL,,NULL
+"2083","''Combinatorial Analysis''",,NULL
+"2084","''Axioms of Probability''",,NULL
+"2085","''Conditional Probability and Indipendace''",,NULL
+"2086","''Random Variables''",,NULL
+"2087","''Continuous Random Variables''",,NULL
+"2088","''Jointly Distributed Random Variables''",,NULL
+"2089","''Propriety of Expectation''",,NULL
+"2090","''Limit Theorems''",,NULL
+"2091","''Additional Topics in Probability''",,NULL
+"12092",NULL,,NULL
+"2092","''Review of basic probabilistic concepts''",,NULL
+"2093","''Large deviations theory''",,NULL
+"2094","''Brownian motion theory, Martingale theory''",,NULL
+"2095","''Weak convergence theory and applications''",,NULL
+"12096",NULL,,NULL
+"2096","''Measure Theory''",,NULL
+"2097","''Laws of Large Numbers''",,NULL
+"2098","''Central Limit Theorems''",,NULL
+"2099","''Martingales''",,NULL
+"2100","''Brownian Motion''",,NULL
+"11133",NULL,,NULL
+"1133","''Module 1''",,NULL
+"1134","''Module 2''",,NULL
+"1135","''Module 3''",,NULL
+"10172",NULL,,NULL
+"172","''Discrete time: deterministic models''",,NULL
+"173","''Discrete time: stochastic models''",,NULL
+"174","''Continuous time''",,NULL
+"11136",NULL,,NULL
+"1136","''Probability and Random Variables: A Review ''",,NULL
+"1137","''Mathematical Description of Random Signals''",,NULL
+"1138","''Response of linear Systems to Random Inputs''",,NULL
+"1139","''Wiener Filtering''",,NULL
+"1140","''The Discrete Kalman Filter, State-Space Modeling, Simulation''",,NULL
+"1141","''The Continuous Kalman Filter''",,NULL
+"1142","''Prediction, Applications, and More Basics on Discrete Kalman Filtering''",,NULL
+"11143",NULL,,NULL
+"1143","''Introduction''",,NULL
+"1144","''Qualifying Networks''",,NULL
+"1145","''Social Networks''",,NULL
+"1146","''Networks, Complexity and Economic Development''",,NULL
+"1147","''Evolution and how it can help us understand our world''",,NULL
+"1148","''Other Topics in Complexity Science''",,NULL
+"1149","''Topic to be determined based on progression of class''",,NULL
+"10179",NULL,,NULL
+"179","''Infinite Horizon ProblemsÃ¢ÂÂSimple (Volume 1, Chapter 7)''",,NULL
+"180","''Infinite Horizon ProblemsÃ¢ÂÂAdvanced (Volume 2)''",,NULL
+"10185",NULL,,NULL
+"185","''Week 2''",,NULL
+"186","''Week 3''",,NULL
+"187","''Week 4''",,NULL
+"188","''Week 5''",,NULL
+"189","''Week 6''",,NULL
+"190","''Week 7''",,NULL
+"191","''Week 8''",,NULL
+"192","''Week 9''",,NULL
+"193","''Week 10''",,NULL
+"194","''Week 11''",,NULL
+"195","''Week 12''",,NULL
+"196","''Week 13''",,NULL
+"197","''Week 14''",,NULL
+"198","''Week 15''",,NULL
+"10201",NULL,,NULL
+"201","''Week 2''",,NULL
+"202","''Week 3''",,NULL
+"203","''Week 4''",,NULL
+"204","''Week 5''",,NULL
+"205","''Week 6''",,NULL
+"206","''Week 7''",,NULL
+"207","''Week 8''",,NULL
+"208","''Week 9''",,NULL
+"209","''Week 10''",,NULL
+"210","''Week 11''",,NULL
+"211","''Week 12''",,NULL
+"212","''Week 13''",,NULL
+"213","''Week 14''",,NULL
+"12101",NULL,,NULL
+"2101","''Events and their probabilities''",,NULL
+"2102","''Random variables and their distributions''",,NULL
+"2103","''Generating Functions and their applications''",,NULL
+"2104","''Markov Chains''",,NULL
+"12105",NULL,,NULL
+"2105","''Module 1''",,NULL
+"2106","''Module 2''",,NULL
+"2107","''Module 3''",,NULL
+"2108","''Module 4''",,NULL
+"2109","''Module 5''",,NULL
+"12110",NULL,,NULL
+"2110","''Introduction''",,NULL
+"2111","''Analysis of Variance''",,NULL
+"2112","''Constructing Orthogonal Array''",,NULL
+"2113","''Design and Systems''",,NULL
+"30048",NULL,,NULL
+"30049",NULL,,NULL
+"30050",NULL,,NULL
+"30051",NULL,,NULL
+"30052",NULL,,NULL
+"30053",NULL,,NULL
+"30054",NULL,,NULL
+"30055",NULL,,NULL
+"30056",NULL,,NULL
+"30057",NULL,,NULL
+"30058",NULL,,NULL
+"30059",NULL,,NULL
+"30060","Mod1","Mod1",NULL
